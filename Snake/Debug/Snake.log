@@ -1,3 +1,5 @@
 ﻿  DrawWall.cpp
-C:\Users\ASUS\source\repos\Snake\Snake\DrawWall.cpp(60,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Game.cpp
+C:\Users\ASUS\source\repos\Snake\Snake\Game.cpp(67,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
   Snake.vcxproj -> C:\Users\ASUS\source\repos\Snake\Debug\Snake.exe
